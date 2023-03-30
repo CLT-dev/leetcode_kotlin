@@ -26,3 +26,4 @@ main/kotlin/questions/leetcode/editor/cn/doc/
 .idea
 build
 .gradle
+.DS_Store
