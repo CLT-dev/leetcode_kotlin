@@ -23,7 +23,10 @@
 hs_err_pid*
 
 main/kotlin/questions/leetcode/editor/cn/doc/
+main/kotlin/questions/leetcode/editor/cn/doc/*
 .idea
 build
+build/*
 .gradle
-.DS_Store
+.gradle/*
+*.DS_Store
