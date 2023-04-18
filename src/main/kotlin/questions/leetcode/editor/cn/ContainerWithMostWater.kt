@@ -51,7 +51,6 @@ class ContainerWithMostWater {
         fun maxArea(height: IntArray): Int {
             var left = 0
             var right = height.size - 1
-            height.size - 1
             var areaMax = 0
             var areaNow: Int
             var needMove: Int
